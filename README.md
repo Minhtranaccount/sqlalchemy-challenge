@@ -7,9 +7,9 @@ In this session, SQLAlchemy ORM queries, Pandas, and Matplotlib were used for co
 
 Part 2: Design a Climate App using Flask to return Json data for API queries.
 The available routes are:
-        /home
-        /api/v1.0/precipitation
-        /api/v1.0/stations
-        /api/v1.0/tobs
-        /api/v1.0/<start>
-        /api/v1.0/<start>/<end>
+        /home <br>
+        /api/v1.0/precipitation <br>
+        /api/v1.0/stations<br>
+        /api/v1.0/tobs<br>
+        /api/v1.0/<start><br>
+        /api/v1.0/<start>/<end><br>
