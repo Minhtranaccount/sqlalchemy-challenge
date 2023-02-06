@@ -11,5 +11,5 @@ The available routes are:
         /api/v1.0/precipitation <br>
         /api/v1.0/stations<br>
         /api/v1.0/tobs<br>
-        /api/v1.0/<start><br>
-        /api/v1.0/<start>/<end><br>
+        /api/v1.0/startdate<br>
+        /api/v1.0/startdate/enddate<br>
