@@ -6,7 +6,7 @@ Part 1: Use SQLAlchemy to do data analysis of Climate Data.
 In this session, SQLAlchemy ORM queries, Pandas, and Matplotlib were used for codes, markdowns and charts.
 
 Part 2: Design a Climate App using Flask to return Json data for API queries.
-The available routes are:
+The available routes are:<br>
         /home <br>
         /api/v1.0/precipitation <br>
         /api/v1.0/stations<br>
